@@ -2,7 +2,7 @@
 - 👀 I’m interested in Games and Android
 - 🌱 I’m currently learning Android-Kotlin
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me via https://linktr.ee/FurkanKrblt
 
 <!---
 Ntelhon/Ntelhon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
