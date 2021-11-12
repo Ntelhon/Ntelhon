@@ -13,4 +13,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ntelhon&show_icons=true&theme=dracula&locale=en" alt="ntelhon" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ntelhon&theme=dark" alt="ntelhon" /></p>
+[//]: <> (<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ntelhon&theme=dark" alt="ntelhon" /></p>)
